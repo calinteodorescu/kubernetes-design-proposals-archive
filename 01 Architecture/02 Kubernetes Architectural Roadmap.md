@@ -33,7 +33,7 @@ Intended audience: Kubernetes contributors
 <!-- markdown-toc end -->
 
 
-## Summary/TL;DR
+## Summary
 
 This document describes the ongoing architectural development of the Kubernetes system, and the
 motivations behind it. System developers wanting to extend or customize
