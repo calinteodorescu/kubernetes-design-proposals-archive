@@ -1,6 +1,6 @@
 # Kubernetes Design and Architecture
 
-A much more detailed and updated [Architectural Roadmap](02-Kubernetes-Architectural-Roadmap.md) is also available.
+A much more detailed and updated [Architectural Roadmap](02%20Kubernetes%20Architectural%20Roadmap.md) is also available.
 
 ## Overview
 
