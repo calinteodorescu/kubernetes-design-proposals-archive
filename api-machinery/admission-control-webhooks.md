@@ -21,7 +21,7 @@ This document proposes a detailed plan for bringing Webhooks to Beta. Highlights
 *   Versioned rather than Internal data sent on hook
 *   Ordering behavior within webhooks, and with other admission phases, is better defined
 
-This plan is compatible with the [original design doc](/contributors/design-proposals/api-machinery/admission_control_extension.md).
+This plan is compatible with the [original design doc](admission_control_extension.md).
 
 
 # Definitions 
