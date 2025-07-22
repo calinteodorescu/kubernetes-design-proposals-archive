@@ -1,7 +1,7 @@
 # Kubernetes Design and Architecture
 
 A much more detailed and updated [Architectural
-Roadmap](/contributors/design-proposals/architecture/architectural-roadmap.md) is also available.
+Roadmap](/contributors/design-proposals/01 Architecture/02 Kubernetes Architectural Roadmap.md) is also available.
 
 ## Overview
 
@@ -43,7 +43,7 @@ transparent, composable manner.
 
 ## Goals
 
-The project is committed to the following (aspirational) [design ideals](principles.md):
+The project is committed to the following (aspirational) [design ideals](00 Design Principles.md):
 * _Portable_. Kubernetes runs everywhere -- public cloud, private cloud, bare metal, laptop --
   with consistent behavior so that applications and tools are portable throughout the ecosystem
   as well as between development and production environments.
