@@ -114,7 +114,7 @@ its sole use. When choosing a group name, we recommend selecting a subdomain
 your group or organization owns, such as "widget.mycompany.com".
 
 Version strings should match
-[DNS_LABEL](https://git.k8s.io/design-proposals-archive/architecture/identifiers.md)
+[DNS_LABEL](/01%20Architecture/identifiers.md)
 format.
 
 
