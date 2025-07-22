@@ -42,7 +42,7 @@ transparent, composable manner.
 
 ## Goals
 
-The project is committed to the following (aspirational) [design ideals](00 Design Principles.md):
+The project is committed to the following (aspirational) [design ideals](00%20Design%20Principles.md):
 * _Portable_. Kubernetes runs everywhere -- public cloud, private cloud, bare metal, laptop --
   with consistent behavior so that applications and tools are portable throughout the ecosystem
   as well as between development and production environments.

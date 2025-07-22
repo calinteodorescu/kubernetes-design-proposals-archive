@@ -76,7 +76,7 @@ Succinctly, the layers comprise:
 Kubernetes is a platform for deploying and managing containers. For more information about the
 mission, scope, and design of Kubernetes, see [What Is
 Kubernetes](http://kubernetes.io/docs/whatisk8s/) and the [architectural
-overview](/contributors/design-proposals/architecture/architecture.md). The
+overview](02%20Kubernetes%20Architectural%20Roadmap.md). The
 latter also describes the current breakdown of the system into components/processes.
 
 Contributors to Kubernetes need to know what functionality they can
@@ -114,7 +114,7 @@ should be allowed and which should not.
 Kubernetes APIs, concepts, and functionality can be sorted into the
 following layers.
 
-![Architectural Layers](arch-roadmap-1.png)
+![Architectural Layers](images/arch-roadmap-1.png)
 
 ### The Nucleus: API and Execution
 
