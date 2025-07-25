@@ -5,10 +5,10 @@ what is and is not in scope for the Kubernetes project.
 
 Related documents:
 * [What is Kubernetes?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
-* [Kubernetes design and architecture](architecture.md)
-* [Kubernetes architectural roadmap (2017)](architectural-roadmap.md)
-* [Design principles](principles.md)
-* [Kubernetes resource management](resource-management.md)
+* [Kubernetes design and architecture](03 Kubernetes Design and Architecture.md)
+* [Kubernetes architectural roadmap (2017)](03 Kubernetes Design and Architecture.md)
+* [Design principles](01 Design Principles.md)
+* [Kubernetes resource management](The Kubernetes Resource Model [KRM].md)
 
 Kubernetes is a portable, extensible open-source platform for managing
 containerized workloads and services, that facilitates both
